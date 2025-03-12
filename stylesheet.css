@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-Bold.woff2') format('woff2'),
+        url('Industry-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-BlackItalic.woff2') format('woff2'),
+        url('Industry-BlackItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-Black.woff2') format('woff2'),
+        url('Industry-Black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-BoldItalic.woff2') format('woff2'),
+        url('Industry-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-Light.woff2') format('woff2'),
+        url('Industry-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test Book';
+    src: url('Industry-Book.woff2') format('woff2'),
+        url('Industry-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-Medium.woff2') format('woff2'),
+        url('Industry-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-LightItalic.woff2') format('woff2'),
+        url('Industry-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test';
+    src: url('Industry-MediumItalic.woff2') format('woff2'),
+        url('Industry-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test Demi';
+    src: url('Industry-Demi.woff2') format('woff2'),
+        url('Industry-Demi.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test Book';
+    src: url('Industry-BookItalic.woff2') format('woff2'),
+        url('Industry-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Industry Test Demi';
+    src: url('Industry-DemiItalic.woff2') format('woff2'),
+        url('Industry-DemiItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
